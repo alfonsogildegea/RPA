@@ -1,2 +1,2 @@
 # RPA
-Snippet repository
+Snippets repository
