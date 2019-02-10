@@ -1,0 +1,246 @@
+﻿SPRAS,LAND1,LANDX,NATIO,LANDX50,NATIO50
+E,"AD ","Andorra        ","Andorran       ","Andorra                                           ",Andorran
+E,"AF ","Afghanistan    ","Afghan         ","Afghanistan                                       ",Afghan
+E,"AG ",Antigua/Barbuda,"Antiguan       ","Antigua and Barbuda                               ",Antiguan
+E,"AI ","Anguilla       ","Anguilla       ","Anguilla                                          ",Anguillian
+E,"AL ","Albania        ","Albanian       ","Albania                                           ",Albanian
+E,"AM ","Armenia        ","Armenian       ","Armenia                                           ",Armenian
+E,"AO ","Angola         ","Angolan        ","Angola                                            ",Angolan
+E,"AQ ","Antarctica     ","Antarctica     ","Antarctica                                        ",From Antarctica
+E,"AR ","Argentina      ","Argentinian    ","Argentina                                         ",Argentinian
+E,"AS ","Samoa, America ","Samoan         ","American Samoa                                    ",Samoan
+E,"AT ","Austria        ","Austrian       ","Austria                                           ",Austrian
+E,"AU ","Australia      ","Australian     ","Australia                                         ",Australian
+E,"AW ","Aruba          ","Aruban         ","Aruba                                             ",Aruban
+E,"AZ ","Azerbaijan     ","Azerbaijani    ","Azerbaijan                                        ",Azerbaijani
+E,"BA ","Bosnia-Herz.   ","Bosnian        ","Bosnia and Herzegovina                            ",Bosnian-Herzegovinian
+E,"BB ","Barbados       ","Barbadian      ","Barbados                                          ",Barbadian
+E,"BD ","Bangladesh     ","Bangladeshi    ","Bangladesh                                        ",Bangladeshi
+E,"BE ","Belgium        ","Belgian        ","Belgium                                           ",Belgian
+E,"BF ","Burkina Faso   ","Burkinabe      ","Burkina Faso                                      ",Burkinabe
+E,"BG ","Bulgaria       ","Bulgarian      ","Bulgaria                                          ",Bulgarian
+E,"BH ","Bahrain        ","Bahraini       ","Bahrain                                           ",Bahraini
+E,"BI ","Burundi        ","Burundian      ","Burundi                                           ",Burundian
+E,"BJ ","Benin          ","Beninese       ","Benin                                             ",Beninese
+E,"BM ","Bermuda        ","Bermudan       ","Bermuda                                           ",Bermudan
+E,"BN ","Brunei Daruss. ","Bruneian       ","Brunei Darussalam                                 ",Bruneian
+E,"BO ","Bolivia        ","Bolivian       ","Bolivia                                           ",Bolivian
+E,"BQ ","Bonaire, Saba  ","Dutch          ","Bonaire, Sint Eustatius and Saba                  ",Dutch
+E,"BR ","Brazil         ","Brazilian      ","Brazil                                            ",Brazilian
+E,"BS ","Bahamas        ","Bahaman        ","Bahamas                                           ",Bahaman
+E,"BT ","Bhutan         ","Bhutanese      ","Bhutan                                            ",Bhutanese
+E,"BV ","Bouvet Islands ","Bouvet Islands ","Bouvet Islands                                    ",From the Bouvet Islands
+E,"BW ","Botswana       ","Botswanan      ","Botswana                                          ",Botswanan
+E,"BY ","Belarus        ","Belarusian     ","Belarus                                           ",Belarusian
+E,"BZ ","Belize         ","Belizean       ","Belize                                            ",Belizean
+E,"CA ","Canada         ","Canadian       ","Canada                                            ",Canadian
+E,"CC ",Keeling Islands,"Australian     ","Cocos (Keeling) Islands                           ",Australian
+E,"CD ",Dem. Rep. Congo,"Congolese      ","Democratic Republic of the Congo                  ",Congolese
+E,"CF ","CAR            ",Central African,"Central African Republic                          ",Central African
+E,"CG ","Rep.of Congo   ","Congolese      ","Republic of the Congo                             ",Congolese
+E,"CH ","Switzerland    ","Swiss          ","Switzerland                                       ",Swiss
+E,"CI ","Cote d'Ivoire  ","Ivoirian       ","Cote d'Ivoire                                     ",Ivoirian
+E,"CK ","Cook Islands   ","Cook Islands   ","Cook Islands                                      ",Cook Islands
+E,"CL ","Chile          ","Chilean        ","Chile                                             ",Chilean
+E,"CM ","Cameroon       ","Cameroonian    ","Cameroon                                          ",Cameroonian
+E,"CN ","China          ","Chinese        ","China                                             ",Chinese
+E,"CO ","Colombia       ","Colombian      ","Colombia                                          ",Colombian
+E,"CR ","Costa Rica     ","Costa Rican    ","Costa Rica                                        ",Costa Rican
+E,"CS ","Serbia/Monten. ",Serbian/Monten.,"Serbia and Montenegro                             ",Serbian; Montenegrin
+E,"CU ","Cuba           ","Cuban          ","Cuba                                              ",Cuban
+E,"CV ","Cape Verde     ","Cape Verdean   ","Cape Verde                                        ",Cape Verdean
+E,"CW ","Curacao        ","Curacaoan      ","Curacao                                           ",Curacaoan
+E,"CX ",Christmas Islnd,"Australian     ","Christmas Islnd                                   ",Australian
+E,"CY ","Cyprus         ","Cypriot        ","Cyprus                                            ",Cypriot
+E,"CZ ","Czech Republic ","Czech          ","Czech Republic                                    ",Czech
+E,"DE ","Germany        ","German         ","Germany                                           ",German
+E,"DJ ","Djibouti       ","Djiboutian     ","Djibouti                                          ",Djiboutian
+E,"DK ","Denmark        ","Danish         ","Denmark                                           ",Danish
+E,"DM ","Dominica       ","Dominican      ","Dominica                                          ",Dominican
+E,"DO ","Dominican Rep. ","Dominican      ","Dominican Republic                                ",Dominican
+E,"DZ ","Algeria        ","Algerian       ","Algeria                                           ",Algerian
+E,"EC ","Ecuador        ","Ecuadorian     ","Ecuador                                           ",Ecuadorian
+E,"EE ","Estonia        ","Estonian       ","Estonia                                           ",Estonian
+E,"EG ","Egypt          ","Egyptian       ","Egypt                                             ",Egyptian
+E,"EH ","West Sahara    ","French         ","Western Sahara                                    ",French
+E,"ER ","Eritrea        ","Eritrean       ","Eritrea                                           ",Eritrean
+E,"ES ","Spain          ","Spanish        ","Spain                                             ",Spanish
+E,"ET ","Ethiopia       ","Ethiopian      ","Ethiopia                                          ",Ethiopian
+E,"FI ","Finland        ","Finnish        ","Finland                                           ",Finnish
+E,"FJ ","Fiji           ","Fijian         ","Fiji                                              ",Fijian
+E,"FK ",Falkland Islnds,"British        ","Falkland Islands                                  ",British
+E,"FM ","Micronesia     ","Micronesian    ","Micronesia                                        ",Micronesian
+E,"FO ","Faroe Islands  ","Danish         ","Faroe Islands                                     ",Danish
+E,"FR ","France         ","French         ","France                                            ",French
+E,"GA ","Gabon          ","Gabonese       ","Gabon                                             ",Gabonese
+E,"GB ","United Kingdom ","British        ","United Kingdom                                    ",British
+E,"GD ","Grenada        ","Grenadian      ","Grenada                                           ",Grenadian
+E,"GE ","Georgia        ","Georgian       ","Georgia                                           ",Georgian
+E,"GF ","French Guayana ","French         ","French Guyana                                     ",French
+E,"GG ","Guernsey       ","British        ","Guernsey (Channel Islands)                        ",
+E,"GH ","Ghana          ","Ghanaian       ","Ghana                                             ",Ghanaian
+E,"GI ","Gibraltar      ","Gibraltar      ","Gibraltar                                         ",Gibraltar
+E,"GL ","Greenland      ","Danish         ","Greenland                                         ",Danish
+E,"GM ","Gambia         ","Gambian        ","Gambia                                            ",Gambian
+E,"GN ","Guinea         ","Guinean        ","Guinea                                            ",Guinean
+E,"GP ","Guadeloupe     ","French         ","Guadeloupe                                        ",French
+E,"GQ ",Equatorial Guin,Equatorial Guin,"Equatorial Guinea                                 ",Equatorial Guinean
+E,"GR ","Greece         ","Greek          ","Greece                                            ",Greek
+E,"GS ",S. Sandwich Ins,"South Georgia  ","South Georgia and the Southern Sandwich Islands   ",South Georgia
+E,"GT ","Guatemala      ","Guatemalan     ","Guatemala                                         ",Guatemalan
+E,"GU ","Guam           ","American       ","Guam                                              ",American
+E,"GW ","Guinea-Bissau  ","Guinean        ","Guinea-Bissau                                     ",Guinean
+E,"GY ","Guyana         ","Guyanese       ","Guyana                                            ",Guyanese
+E,"HK ","Hong Kong      ","Hong Kong      ","Hong Kong                                         ",Hong Kong
+E,"HM ",Heard/McDon.Isl,Heard/McDon.Isl,"Heard and McDonald Islands                        ",From the Heard and McDonald Islands
+E,"HN ","Honduras       ","Honduran       ","Honduras                                          ",Honduran
+E,"HR ","Croatia        ","Croatian       ","Croatia                                           ",Croatian
+E,"HT ","Haiti          ","Haitian        ","Haiti                                             ",Haitian
+E,"HU ","Hungary        ","Hungarian      ","Hungary                                           ",Hungarian
+E,"ID ","Indonesia      ","Indonesian     ","Indonesia                                         ",Indonesian
+E,"IE ","Ireland        ","Irish          ","Ireland                                           ",Irish
+E,"IL ","Israel         ","Israeli        ","Israel                                            ",Israeli
+E,"IM ","Isle of Man    ","British        ","Isle of Man                                       ",
+E,"IN ","India          ","Indian         ","India                                             ",Indian
+E,"IO ",Brit.Ind.Oc.Ter,Brit.Ind.Oc.Ter,"British Indian Ocean Territory                    ",British
+E,"IQ ","Iraq           ","Iraqi          ","Iraq                                              ",Iraqi
+E,"IR ","Iran           ","Iranian        ","Iran                                              ",Iranian
+E,"IS ","Iceland        ","Icelandic      ","Iceland                                           ",Icelandic
+E,"IT ","Italy          ","Italian        ","Italy                                             ",Italian
+E,"JE ","Jersey         ","British        ","Jersey                                            ",
+E,"JM ","Jamaica        ","Jamaican       ","Jamaica                                           ",Jamaican
+E,"JO ","Jordan         ","Jordanian      ","Jordan                                            ",Jordanian
+E,"JP ","Japan          ","Japanese       ","Japan                                             ",Japanese
+E,"KE ","Kenya          ","Kenyan         ","Kenya                                             ",Kenyan
+E,"KG ","Kyrgyzstan     ","Kyrgyzstani    ","Kyrgyzstan                                        ",Kyrgyzstani
+E,"KH ","Cambodia       ","Cambodian      ","Cambodia                                          ",Cambodian
+E,"KI ","Kiribati       ","Kiribati       ","Kiribati                                          ",Kiribati
+E,"KM ","Comoros        ","Comoran        ","Comoros                                           ",Comoran
+E,"KN ","St Kitts&Nevis ",f. St Kitts/Nev,"Saint Kitts and Nevis                             ",From Saint Kitts and Nevis
+E,"KP ","North Korea    ","Korean         ","North Korea                                       ",Korean
+E,"KR ","South Korea    ","Korean         ","South Korea                                       ",Korean
+E,"KW ","Kuwait         ","Kuwaiti        ","Kuwait                                            ",Kuwaiti
+E,"KY ","Cayman Islands ","British        ","Cayman Islands                                    ",British
+E,"KZ ","Kazakhstan     ","Kazakh         ","Kazakhstan                                        ",Kazakh
+E,"LA ","Laos           ","Laotian        ","Laos                                              ",Laotian
+E,"LB ","Lebanon        ","Lebanese       ","Lebanon                                           ",Lebanese
+E,"LC ","St. Lucia      ","Saint Lucian   ","St. Lucia                                         ",Saint Lucian
+E,"LI ","Liechtenstein  ","Liechtenstein  ","Liechtenstein                                     ",Liechtenstein
+E,"LK ","Sri Lanka      ","Sri Lankan     ","Sri Lanka                                         ",Sri Lankan
+E,"LR ","Liberia        ","Liberian       ","Liberia                                           ",Liberian
+E,"LS ","Lesotho        ","Lesothan       ","Lesotho                                           ",Lesothan
+E,"LT ","Lithuania      ","Lithuanian     ","Lithuania                                         ",Lithuanian
+E,"LU ","Luxembourg     ","Luxembourgian  ","Luxembourg                                        ",Luxembourgian
+E,"LV ","Latvia         ","Latvian        ","Latvia                                            ",Latvian
+E,"LY ","Libya          ","Libyan         ","Libya                                             ",Libyan
+E,"MA ","Morocco        ","Moroccan       ","Morocco                                           ",Moroccan
+E,"MC ","Monaco         ","Monegasque     ","Monaco                                            ",Monegasque
+E,"MD ","Moldova        ","Moldovan       ","Moldova                                           ",Moldovan
+E,"MG ","Madagascar     ","Madagascan     ","Madagascar                                        ",Madagascan
+E,"MH ",Marshall Islnds,"Marshallese    ","Marshall Islands                                  ",Marshallese
+E,"MK ","Macedonia      ","Macedonian     ","Macedonia                                         ",Macedonian
+E,"ML ","Mali           ","Malian         ","Mali                                              ",Malian
+E,"MM ","Burma          ","Burmese        ","Burma                                             ",Burmese
+E,"MN ","Mongolia       ","Mongolian      ","Mongolia                                          ",Mongolian
+E,"MO ","Macau          ","Portuguese     ","Macau                                             ",Portuguese
+E,"MP ",N.Mariana Islnd,"Marianian      ","North Mariana Islands                             ",Marianian
+E,"MQ ","Martinique     ","French         ","Martinique                                        ",French
+E,"MR ","Mauritania     ","Mauritanian    ","Mauritania                                        ",Mauritanian
+E,"MS ","Montserrat     ","Montserrat     ","Montserrat                                        ",Montserrat
+E,"MT ","Malta          ","Maltese        ","Malta                                             ",Maltese
+E,"MU ","Mauritius      ","Mauritian      ","Mauritius                                         ",Mauritian
+E,"MV ","Maldives       ","Maldivian      ","Maldives                                          ",Maldivian
+E,"MW ","Malawi         ","Malawian       ","Malawi                                            ",Malawian
+E,"MX ","Mexico         ","Mexican        ","Mexico                                            ",Mexican
+E,"MY ","Malaysia       ","Malaysian      ","Malaysia                                          ",Malaysian
+E,"MZ ","Mozambique     ","Mozambican     ","Mozambique                                        ",Mozambican
+E,"NA ","Namibia        ","Namibian       ","Namibia                                           ",Namibian
+E,"NC ","New Caledonia  ","French         ","New Caledonia                                     ",French
+E,"NE ","Niger          ","Nigerien       ","Niger                                             ",Nigerien
+E,"NF ",Norfolk Islands,Norfolk Islands,"Norfolk Islands                                   ",From the Norfolk Islands
+E,"NG ","Nigeria        ","Nigerian       ","Nigeria                                           ",Nigerian
+E,"NI ","Nicaragua      ","Nicaraguan     ","Nicaragua                                         ",Nicaraguan
+E,"NL ","Netherlands    ","Dutch          ","Netherlands                                       ",Dutch
+E,"NO ","Norway         ","Norwegian      ","Norway                                            ",Norwegian
+E,"NP ","Nepal          ","Nepalese       ","Nepal                                             ",Nepalese
+E,"NR ","Nauru          ","Nauruian       ","Nauru                                             ",Nauruian
+E,"NU ","Niue           ","Niuean         ","Niue                                              ",Niuean
+E,"NZ ","New Zealand    ","New Zealand    ","New Zealand                                       ",New Zealand
+E,"OM ","Oman           ","Omani          ","Oman                                              ",Omani
+E,"PA ","Panama         ","Panamanian     ","Panama                                            ",Panamanian
+E,"PE ","Peru           ","Peruvian       ","Peru                                              ",Peruvian
+E,"PF ",Frenc.Polynesia,"French         ","French Polynesia                                  ",French
+E,"PG ",Pap. New Guinea,Pap.New Guinean,"Papua New Guinea                                  ",Papua New Guinean
+E,"PH ","Philippines    ","Filipino       ","Philippines                                       ",Filipino
+E,"PK ","Pakistan       ","Pakistani      ","Pakistan                                          ",Pakistani
+E,"PL ","Poland         ","Polish         ","Poland                                            ",Polish
+E,"PM ","St.Pier,Miquel.","French         ","St. Pierre and Miquelon                           ",French
+E,"PN ",Pitcairn Islnds,"British        ","Pitcairn Islands                                  ",British
+E,"PR ","Puerto Rico    ","American       ","Puerto Rico                                       ",American
+E,"PS ","Palestine      ","Palestinian    ","Palestine                                         ",Palestinian
+E,"PT ","Portugal       ","Portuguese     ","Portugal                                          ",Portuguese
+E,"PW ","Palau          ","Palauan        ","Palau                                             ",Palauan
+E,"PY ","Paraguay       ","Paraguayan     ","Paraguay                                          ",Paraguayan
+E,"QA ","Qatar          ","Qatari         ","Qatar                                             ",Qatari
+E,"RE ","Reunion        ","French         ","Reunion                                           ",French
+E,"RO ","Romania        ","Romanian       ","Romania                                           ",Romanian
+E,"RU ","Russian Fed.   ","Russian        ","Russian Federation                                ",Russian
+E,"RW ","Rwanda         ","Rwandan        ","Rwanda                                            ",Rwandan
+E,"SA ","Saudi Arabia   ","Saudi Arabian  ","Saudi Arabia                                      ",Saudi Arabian
+E,"SB ",Solomon Islands,Solomon Islandr,"Solomon Islands                                   ",Solomon Islander
+E,"SC ","Seychelles     ","Seychellois    ","Seychelles                                        ",Seychellois
+E,"SD ","Sudan          ","Sudanese       ","Sudan                                             ",Sudanese
+E,"SE ","Sweden         ","Swedish        ","Sweden                                            ",Swedish
+E,"SG ","Singapore      ","Singaporean    ","Singapore                                         ",Singaporean
+E,"SH ","Saint Helena   ","Saint Helena   ","Saint Helena                                      ",Saint Helenian
+E,"SI ","Slovenia       ","Slovenian      ","Slovenia                                          ",Slovenian
+E,"SJ ","Svalbard       ","Norwegian      ","Svalbard                                          ",Norwegian
+E,"SK ","Slovakia       ","Slovak         ","Slovakia                                          ",Slovak
+E,"SL ","Sierra Leone   ","Sierra Leonean ","Sierra Leone                                      ",Sierra Leonean
+E,"SM ","San Marino     ","Sammarinese    ","San Marino                                        ",Sammarinese
+E,"SN ","Senegal        ","Senegalese     ","Senegal                                           ",Senegalese
+E,"SO ","Somalia        ","Somali         ","Somalia                                           ",Somali
+E,"SR ","Suriname       ","Surinamese     ","Suriname                                          ",Surinamese
+E,"SS ","South Sudan    ","South Sudanese ","South Sudan                                       ",
+E,"ST ","S.Tome,Principe","Sao Tomean     ","Sao Tome and Principe                             ",Sao Tomean
+E,"SV ","El Salvador    ","Salvadoran     ","El Salvador                                       ",Salvadoran
+E,"SX ","Sint Maarten   ","Sint Maarten   ","Sint Maarten (Dutch part)                         ",Sint Maarten
+E,"SY ","Syria          ","Syrian         ","Syria                                             ",Syrian
+E,"SZ ","Swaziland      ","Swazi          ","Swaziland                                         ",Swazi
+E,"TC ",Turksh Caicosin,Turksh Caicosin,"Turks and Caicos Islands                          ",From the Turks and Caicos Islands
+E,"TD ","Chad           ","Chadian        ","Chad                                              ",Chadian
+E,"TF ",French S.Territ,"French         ","French Southern and Antarctic Lands               ",French
+E,"TG ","Togo           ","Togolese       ","Togo                                              ",Togolese
+E,"TH ","Thailand       ","Thai           ","Thailand                                          ",Thai
+E,"TJ ","Tajikistan     ","Tajikistani    ","Tajikistan                                        ",Tajikistani
+E,"TK ",Tokelau Islands,Tokelau Islands,"Tokelau Islands                                   ",From the Tokelau Islands
+E,"TL ","East Timor     ","               ","East Timor                                        ",
+E,"TM ","Turkmenistan   ","Turkmen        ","Turkmenistan                                      ",Turkmen
+E,"TN ","Tunisia        ","Tunisian       ","Tunisia                                           ",Tunisian
+E,"TO ","Tonga          ","Tongan         ","Tonga                                             ",Tongan
+E,"TP ","East Timor     ","East Timor     ","East Timor                                        ",From East Timor
+E,"TR ","Turkey         ","Turkish        ","Turkey                                            ",Turkish
+E,"TT ","Trinidad,Tobago",F. Trinidad & T,"Trinidad and Tobago                               ",From Trinidad and Tobago
+E,"TV ","Tuvalu         ","Tuvaluan       ","Tuvalu                                            ",Tuvaluan
+E,"TW ","Taiwan         ","Chinese        ","Taiwan                                            ",Chinese
+E,"TZ ","Tanzania       ","Tanzanian      ","Tanzania                                          ",Tanzanian
+E,"UA ","Ukraine        ","Ukrainian      ","Ukraine                                           ",Ukrainian
+E,"UG ","Uganda         ","Ugandan        ","Uganda                                            ",Ugandan
+E,"UM ",Minor Outl.Isl.,Minor Outl.Isl.,"United States Minor Outlying Islands              ",American
+E,"US ","USA            ","American       ","USA                                               ",American
+E,"UY ","Uruguay        ","Uruguayan      ","Uruguay                                           ",Uruguayan
+E,"UZ ","Uzbekistan     ","Uzbekistani    ","Uzbekistan                                        ",Uzbekistani
+E,"VA ","Vatican City   ","Vatican City   ","Vatican City                                      ",
+E,"VC ","St. Vincent    ","Vincentian     ","St. Vincent and the Grenadines                    ",Vincentian
+E,"VE ","Venezuela      ","Venezuelan     ","Venezuela                                         ",Venezuelan
+E,"VG ",Brit.Virgin Is.,"British        ","British Virgin Islands                            ",British
+E,"VI ","US Virgin Isl. ","American       ","United States Virgin Islands                      ",American
+E,"VN ","Vietnam        ","Vietnamese     ","Vietnam                                           ",Vietnamese
+E,"VU ","Vanuatu        ","Ni-Vanuatu     ","Vanuatu                                           ",Ni-Vanuatu
+E,"WF ","Wallis,Futuna  ","Wallis,Futuna  ","Wallis and Futuna Islands                         ",From the Wallis and Futuna Islands
+E,"WS ","Samoa          ","Samoan         ","Samoa                                             ",Samoan
+E,"YE ","Yemen          ","Yemeni         ","Yemen                                             ",Yemeni
+E,"YT ","Mayotte        ","French         ","Mayotte                                           ",French
+E,"ZA ","South Africa   ","South African  ","South Africa                                      ",South African
+E,"ZM ","Zambia         ","Zambian        ","Zambia                                            ",Zambian
+E,"ZW ","Zimbabwe       ","Zimbabwean     ","Zimbabwe                                          ",Zimbabwean
